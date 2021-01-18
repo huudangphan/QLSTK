@@ -1,0 +1,9 @@
+D:\QLSTKIEM\DTO\bin\Debug\DTO.exe.config
+D:\QLSTKIEM\DTO\bin\Debug\DTO.exe
+D:\QLSTKIEM\DTO\bin\Debug\DTO.pdb
+D:\QLSTKIEM\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\QLSTKIEM\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\QLSTKIEM\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\QLSTKIEM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QLSTKIEM\DTO\obj\Debug\DTO.exe
+D:\QLSTKIEM\DTO\obj\Debug\DTO.pdb
